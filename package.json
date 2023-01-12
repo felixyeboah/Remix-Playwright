@@ -68,7 +68,7 @@
 		"@types/react": "^18.0.15",
 		"@types/react-dom": "^18.0.6",
 		"@vitejs/plugin-react": "^2.1.0",
-		"@vitest/coverage-c8": "^0.24.0",
+		"@vitest/coverage-c8": "^0.27.1",
 		"binode": "^1.0.5",
 		"cross-env": "^7.0.3",
 		"dotenv": "^16.0.3",
